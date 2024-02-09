@@ -1,2 +1,2 @@
-# aottryGitpage02.github.io-
-qe gen app
+# aottryGitpage02.github.io
+qr gen app
